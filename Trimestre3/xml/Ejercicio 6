@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
 <letter>
-	<name>Rosa Fernández</name>
-	<addres>Calle Campofrío nº1</addres>
-	<municipality>Tharsis, Alosno</municipality>
+	<name>Samuel Moreno</name>
+	<addres>Gonzalo de Berceo nº6 4b</addres>
+	<municipality>Huelva, Huelva</municipality>
 	<city>Huelva</city>
 	<country>Spain</country>
-	<code>21530</code>
-	<subject>BBQ on Saturday</subject>
+	<code>21005</code>
+	<subject>Votación comunidad</subject>
 	<datetime>03-05-2021 14:01</datetime>
-	<text>Hi! I remind you that the barbecue is this Saturday at one in the afternoon. Do not forget! All the best.</text>
+	<text>Querido compañero de la comunidad, te envío esta carta para recordarte la votación del día 10 de Junio para elegir el presidente de la comunidad </text>
 </letter>
