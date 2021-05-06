@@ -1,4 +1,4 @@
-A. Defina una función max () que tome dos números como argumentos y devuelva el mayor de ellos. Utilice la construcción if-then-else disponible en Javascript.
+A. Defina una función max () que tome dos números como argumentos y devuelva el mayor de ellos. Utilice la construcción if-then-else disponible en Javascript. 
 
 <!DOCTYPE html>
 <html>
