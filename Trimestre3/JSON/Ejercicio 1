@@ -15,11 +15,11 @@ xmlhttp.onreadystatechange = function() {
     document.getElementById("demo").innerHTML = myObj.name;
   }
 };
-xmlhttp.open("GET", "https://api.nasa.gov", true);
+xmlhttp.open("GET", "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2020-05-01", true);
 xmlhttp.send();
 </script>
 
-<p>Take a look at <a href="https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2020-05-01" target="_blank">NASA</a></p>
+<p>Take a look at <a href="json_demo.txt"_blank">NASA</a></p>
 
 </body>
 </html>
