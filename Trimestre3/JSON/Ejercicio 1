@@ -12,18 +12,14 @@ var xmlhttp = new XMLHttpRequest();
 xmlhttp.onreadystatechange = function() {
   if (this.readyState == 4 && this.status == 200) {
     var myObj = JSON.parse(this.responseText);
-    salida = "";
-    for (i = 0; i < myObj.length; i++)
-    salida += myObj[i] + '<br>';
-    document.getElementById("demo").innerHTML = myObj.length;
-
+    document.getElementById("demo").innerHTML = myObj.name;
   }
 };
-xmlhttp.open("GET", "json_demo_array.txt", true);
+xmlhttp.open("GET", "https://api.nasa.gov", true);
 xmlhttp.send();
 </script>
 
-<p>Take a look at <a href="json_demo_array.txt" target="_blank">json_demo_array.txt</a></p>
+<p>Take a look at <a href="https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2020-05-01" target="_blank">NASA</a></p>
 
 </body>
 </html>
