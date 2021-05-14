@@ -9,10 +9,10 @@
 <AddressBook>
 <Address>
     <Name> Samuel </Name>
-    <Street> Gonzalo de Berceo </Home_address>
+    <Home_Address> Gonzalo de Berceo  </Home_Address>
     <Telephone> 777 </Telephone>
     <Mail> pepito@gmail.com </Mail>
     <Age> 22 </Age>
-    <Marital_Status> S </Marital_status>
+    <Marital_Status> S </Marital_Status>
 </Address>
 </AddressBook>
