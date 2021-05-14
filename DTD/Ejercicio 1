@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE AddressBook [
+<!ELEMENT Addressbook (Address+)>
+<!ELEMENT Address (Name, Street, City)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Street (#PCDATA)>
+<!ELEMENT City (#PCDATA) >
+] >
+<AddressBook>
+<Address>
+<Name> Samuel </Name>
+<Street> Gonzalo de Berceo </Street>
+<City> Huelva </City>
+</Address>
+</AddressBook>
