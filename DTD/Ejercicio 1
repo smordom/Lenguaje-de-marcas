@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE AddressBook [
-<!ELEMENT Addressbook (Address+)>
+<!ELEMENT AddressBook (Address+)>
 <!ELEMENT Address (Name, Home_Address, Telephone, Mail, Age, Marital_Status)>
 <!ELEMENT Name (#PCDATA)>
-<!ELEMENT Street (#PCDATA)>
-<!ELEMENT City (#PCDATA) >
+<!ELEMENT Home_Address (#PCDATA)>
+<!ELEMENT Telephone (#PCDATA) >
+<!ELEMENT Mail (#PCDATA)>
+<!ELEMENT Age (#PCDATA)>
+<!ELEMENT Marital_Status (#PCDATA) >
 ] >
 <AddressBook>
 <Address>
