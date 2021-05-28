@@ -1,0 +1,24 @@
+<?xml version=»1.0″ encoding=»UTF-8″ ?>
+<rss version=»2.0″>
+
+<channel>
+
+<title>Ultimas noticias AS</title>
+<link>//news/?preview_title=Últimas+noticias+%7C+Diario+AS&preview_url=https%3A%2F%2Fas.com%2Frss%2Ftags%2Fultimas_noticias.xml</link>
+<description>Aqui podremos encontrar las últimas noticias del diario AS </description>
+
+<item>
+
+<title>Esperanza para el lince</title>
+<link>https://as.com/diarioas/2021/05/28/actualidad/1622216815_687602.html#?ref=rss&format=simple&link=link</link>
+<description>Conoce todas las alternativas para liberar tu radio.</description>
+<author>AS Periodico</author>
+<pubDate>Fri, 28 may 2021</pubDate>
+
+
+</item>
+
+
+</channel>
+
+</rss>
